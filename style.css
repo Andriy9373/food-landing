@@ -383,7 +383,7 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
-    padding: 3rem 0;
+    padding: 6rem 0;
     position: relative;
 }
 
@@ -474,6 +474,10 @@ html {
         width: 100%;
         height: 100%;
     }
+
+    .section-4 {
+        padding: 10rem 0;
+    }
 }
 
 @media (max-width: 1000px) {
@@ -496,6 +500,7 @@ html {
 
     .section-4 {
         height: 30rem;
+        padding: 6rem 0;
     }
 }
 
@@ -510,6 +515,10 @@ html {
 
     .navbar-link span {
         font-size: 2rem;
+    }
+
+    .food-description {
+        width: 20vw;
     }
 }
 
@@ -533,10 +542,15 @@ html {
         justify-content: flex-start;
         align-items: center;
         gap: 8rem;
+        padding: 3rem 0;
     }
 
     .section-4-heading {
         text-align: center;
+    }
+
+    .food-description {
+        width: 25vw;
     }
 }
 

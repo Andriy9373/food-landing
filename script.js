@@ -18,3 +18,7 @@ document.querySelector('.menu').addEventListener('click', () => {
         item.classList.toggle('change');
     })
 })
+
+document.querySelector('.signup-form-btn').addEventListener('click', e => {
+    e.preventDefault();
+})
