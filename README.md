@@ -1,2 +1,2 @@
-# Food Landing (HTML CSS JS)
-# https://food-landing.netlify.app/
+# Meal Landing (HTML CSS JS)
+# https://meal-landing.netlify.app/
